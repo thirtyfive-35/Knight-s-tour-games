@@ -1,5 +1,5 @@
-# Knight's tour games
- Knight's tour
+# Knight's tour challenge games
+ Knight's tour games
  
  -- run on the cmd 
 
